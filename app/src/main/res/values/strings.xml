@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FB Hack Prank</string>
+    <string name="tvU">Enter the Facebook USER and click on <b>"Hack Account"</b>.<br/>
+Our robots start verifying the availability of the account.</string>
+    <string name="hack_account">Hack Account</string>
+    <string name="facebook_username">https://www.facebook.com/username</string>
+    <string name="enter_fb_username">Enter FB UserName</string>
+</resources>
